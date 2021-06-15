@@ -7,3 +7,5 @@
 
 #### After training:
 <img src=https://github.com/c24thomas/cuddly-adventure/blob/main/videos/solved.gif>
+
+
